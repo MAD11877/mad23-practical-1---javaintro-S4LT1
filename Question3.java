@@ -15,6 +15,6 @@ public class Question3
     int integer = in.nextInt();
 
     int result = integer*integer;
-    System.out.println("Result: ", result);
+    System.out.println("Result: "+result);
   }
 }
